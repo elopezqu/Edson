@@ -1,3 +1,24 @@
+|                       |     UNIVERSIDAD NACIONAL DE SAN AGUSTIN        |                         |
+|                       |FACULTAD DE INGENIERIA DE PRODUCCIÓN Y SERVICIOS|                         |
+|                       | ESCUELA PROFESIONAL DE INGENIERIA DE SISTEMAS  |                         |
+|-----------------------|------------------------------------------------|-------------------------|
+|          Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación             |
+|-----------------------|------------------------------------------------|-------------------------|
+|Aprobación:  2022/03/01|             Código: GUIA-PRLE-001              |        Página: 1        |
+|                       |                                                |                         |
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Programación Web 2
 
 Programación Web 2 (PW2) es un curso de la Escuela Profesional de Ingeniería de Sistemas ([EPIS]) de la Universidad Nacional de San Agustín de Arequipa ([UNSA]).
